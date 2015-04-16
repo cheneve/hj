@@ -1,0 +1,2 @@
+# hj
+learn linux
